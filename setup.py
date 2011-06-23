@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 from setuptools import setup
 
-version='0.1'
+version='0.1.1'
 
 setup(
     name = 'django-mootools-behavior',
