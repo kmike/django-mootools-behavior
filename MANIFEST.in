@@ -1,0 +1,3 @@
+include *.txt
+include *.rst
+recursive-include mootools_behavior/static *.js
